@@ -1,0 +1,17 @@
+Human: Hi, I want to place a pizza order.
+
+Agent: Hello! I’ll be happy to assist you. What would you like to order?
+
+Human: One large pizza with two flavors and a small brigadeiro dessert pizza.
+
+Agent: Perfect. Your order comes to a total of R$ 100.00, with delivery to Parque Ibirapuera in 40 minutes. Is that correct?
+
+Human: Yes.
+
+Agent: Great. Before I finalize it, I’d like to offer our special promotion with a free soda to go with your order. Would you like to include it?
+
+Human: Yes, add it.
+
+Agent: Wonderful choice. Your order is confirmed: two-flavor pizza, brigadeiro dessert pizza, free soda, delivery to Parque Ibirapuera in 40 minutes, total R$ 100.00. Is there anything else I can help you with?
+
+Human: No, that’s all.

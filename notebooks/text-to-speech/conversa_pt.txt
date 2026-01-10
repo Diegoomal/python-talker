@@ -1,0 +1,17 @@
+Humano: Oi, quero fazer um pedido de pizza.
+
+Agente: Olá! Será um prazer ajudar. Qual seria o seu pedido?
+
+Humano: Uma pizza grande de 2 sabores e uma brotinho de brigadeiro.
+
+Agente: Perfeito. O pedido ficará no valor total de R$ 100,00, com entrega no Parque Ibirapuera em 40 minutos. Está correto?
+
+Humano: Sim.
+
+Agente: Ótimo. Antes de finalizar, gostaria de oferecer nossa promoção especial com refrigerante grátis para acompanhar seu pedido. Deseja incluir?
+
+Humano: Pode incluir, sim.
+
+Agente: Excelente escolha. Seu pedido foi confirmado: pizza de 2 sabores, brotinho de brigadeiro, refrigerante grátis, entrega no Parque Ibirapuera em 40 minutos, total R$ 100,00. Posso ajudar em mais alguma coisa?
+
+Humano: Não, só isso mesmo.

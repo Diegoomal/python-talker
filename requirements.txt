@@ -19,9 +19,14 @@ torch
 torchaudio
 torchcodec
 openai-whisper
+ollama
+transformers 
 
-# Components
+# Components puramente python
 pandas
+scipy
+pydub
+ffmpeg-python
 
 # langchain==0.3.25
 # langchain-core==0.3.62
