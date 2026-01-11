@@ -43,10 +43,17 @@ A flexible, organized, and clean Python 3.10 project structure ready for impleme
 
 <!-- 
 
+WHISPER
+
+https://huggingface.co/collections/openai/whisper-release
+
+BARK
+
 https://huggingface.co/suno/bark
 
 https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing
 
 https://colab.research.google.com/drive/1dWWkZzvu7L9Bunq9zvD-W02RFUXoW-Pd?usp=sharing
+
 
 -->
